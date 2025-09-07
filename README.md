@@ -323,8 +323,8 @@ int main( void ) {
 
 -   <span class="package-name">[`@stdlib/stats-strided/dnanmeanors`][@stdlib/stats/strided/dnanmeanors]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a double-precision floating-point strided array, ignoring NaN values and using ordinary recursive summation.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/nanmeanors`][@stdlib/stats/strided/nanmeanors]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array, ignoring NaN values and using ordinary recursive summation.</span>
--   <span class="package-name">[`@stdlib/stats-base/smeanors`][@stdlib/stats/base/smeanors]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using ordinary recursive summation.</span>
--   <span class="package-name">[`@stdlib/stats-base/snanmean`][@stdlib/stats/base/snanmean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/smeanors`][@stdlib/stats/strided/smeanors]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array using ordinary recursive summation.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/snanmean`][@stdlib/stats/strided/snanmean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values.</span>
 
 </section>
 
@@ -414,9 +414,9 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/nanmeanors]: https://github.com/stdlib-js/stats-strided-nanmeanors
 
-[@stdlib/stats/base/smeanors]: https://github.com/stdlib-js/stats-base-smeanors
+[@stdlib/stats/strided/smeanors]: https://github.com/stdlib-js/stats-strided-smeanors
 
-[@stdlib/stats/base/snanmean]: https://github.com/stdlib-js/stats-base-snanmean
+[@stdlib/stats/strided/snanmean]: https://github.com/stdlib-js/stats-strided-snanmean
 
 <!-- </related-links> -->
 
